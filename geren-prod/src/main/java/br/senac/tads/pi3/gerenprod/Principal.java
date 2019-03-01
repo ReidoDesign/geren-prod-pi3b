@@ -15,5 +15,6 @@ public class Principal {
         System.out.println("Teste Maven");
         int i = 0;
         System.out.println("Valor i++ = " + i++);
+        System.out.println("Gui Ze Droguinha");
     }
 }
